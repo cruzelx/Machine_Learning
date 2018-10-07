@@ -1,0 +1,32 @@
+1538679058247	geckodriver	INFO	geckodriver 0.18.0
+1538679058249	geckodriver	INFO	Listening on 127.0.0.1:53091
+1538679059427	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
+1538679210792	geckodriver	INFO	geckodriver 0.18.0
+1538679210795	geckodriver	INFO	Listening on 127.0.0.1:53771
+1538679211888	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
+1538679274580	geckodriver	INFO	geckodriver 0.18.0
+1538679274583	geckodriver	INFO	Listening on 127.0.0.1:40917
+1538679275680	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
+1538679356052	geckodriver	INFO	geckodriver 0.18.0
+1538679356054	geckodriver	INFO	Listening on 127.0.0.1:51669
+1538679357153	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
+1538764366488	geckodriver	INFO	geckodriver 0.18.0
+1538764366561	geckodriver	INFO	Listening on 127.0.0.1:45239
+1538764367828	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
+1538764397298	geckodriver	INFO	geckodriver 0.18.0
+1538764397301	geckodriver	INFO	Listening on 127.0.0.1:56433
+1538764398420	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
+1538764544363	geckodriver	INFO	geckodriver 0.18.0
+1538764544366	geckodriver	INFO	Listening on 127.0.0.1:43041
+1538764545459	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
+1538765890693	geckodriver	INFO	geckodriver 0.18.0
+1538765890695	geckodriver	INFO	Listening on 127.0.0.1:59329
+1538765891792	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/iamlex which is owned by iamlex.)
